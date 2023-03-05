@@ -1,3 +1,5 @@
 This is my first code to understand GIT
 
 second line
+
+editing from GitHub
